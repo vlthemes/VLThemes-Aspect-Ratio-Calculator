@@ -1,3 +1,3 @@
-# VLThemes-Aspect-Ratio-Calculator
+# VLThemes - Aspect Ratio Calculator
 
 Demo: http://arc.vlthemes.com
